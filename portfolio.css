@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+body {
+    margin: 0;
+    color: gray;
+    font-family: "Abel", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    height: 100px;
+    width: 100%;
+    background-color: #fff;
+    z-index: 1000;
+}
+
+h1 {
+    padding: 10px;
+    width: 30%;
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+h2 {
+    padding-left: 30px;
+}
+
+h3 {
+    padding-left: 50px;
+}
+
+h4 {
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+#WORKS {
+    position: relative;
+    top: 100px;
+    height: 1300px;
+    padding: 10px;
+}
+
+#WORKS img {
+    width: 100%;
+    padding-top: 10px;
+}
+
+#SKILS {
+    position: relative;
+    height: 600px;
+}
+
+.icon {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(2, 100px);
+    grid-gap: 20px;
+    width: 100%;
+    margin-bottom: 20px;
+
+}
+
+.icon img {
+    width: 80px;
+    height: 80px;
+}
+
+#ABOUT {
+    height: 400px;
+}
+
+#OTHER {
+    position: relative;
+    height: 400px;
+}
+.sns {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+.sns div {
+    margin: 20px;
+}
+
+.sns img {
+    width: 80px;
+    height: 80px;
+}
