@@ -117,8 +117,8 @@ h5 {
 
     h1 {
         padding-left: 100px;
-        width: 40%;
-        font-size: 3rem;
+        width: 30%;
+        font-size: 2rem;
         text-align: left;
     }
     
@@ -180,7 +180,7 @@ h5 {
     
     .top {
         position: relative;
-        top: 15px;
+        top: -5px;
         width: 100px;
         height: 48px;
         font-size: 3rem;
@@ -192,7 +192,7 @@ h5 {
     
     
     .WORKS {
-        padding-top: 100px;
+        padding-top: 170px;
     }
     
     .WORKS div {
@@ -210,6 +210,7 @@ h5 {
         display: flex;
         justify-content: center;
         align-items: center;
+        text-align: center;
         grid-gap: 20px;
         width: 100%;
         margin-bottom: 20px;
