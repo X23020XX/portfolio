@@ -335,7 +335,7 @@ h5 {
 
     .icon-sub {
         width: 200px;
-        height: 400px;
+        height: 200px;
         text-align: center;
         align-items: center;
         object-position: center;
@@ -345,7 +345,7 @@ h5 {
     
     .icon img {
         width: 100px;
-        height: 300px;
+        height: 100px;
         border-radius: 80px;
         box-shadow: 12px 12px 2px 1px gray;
     }
