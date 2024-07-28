@@ -328,8 +328,7 @@ h5 {
     .icon {
         display: flex;
         width: 100%;
-        margin-top: 200px;
-        margin-bottom: 200px;
+        margin-top: 50px;
         text-align: center;
     }
 
