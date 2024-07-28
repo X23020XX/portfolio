@@ -205,10 +205,11 @@ h5 {
 
     #section-indicator {
         position: fixed;
-        top: 250px; /* ヘッダーの下に固定 */
+        top: 15%; /* ヘッダーの下に固定 */
         left: 30px;
         width: 100%;
-        font-size: 5rem;
+        height: 8%;
+        font-size: 3rem;
         background-color: #fff;
         z-index: 999;
         display: none; /* デフォルトでは非表示 */
@@ -256,30 +257,30 @@ h5 {
     h1 {
         padding-left: 100px;
         width: 50%;
-        font-size: 4rem;
+        font-size: 2rem;
         text-align: left;
     }
     
     h2 {
         position: relative;
-        font-size: 5rem;
+        font-size: 3rem;
         left: 30px;
     }
     
     h3 {
         position: relative;
         width: 30%;
-        font-size: 5rem;
+        font-size: 3rem;
         left: 100px;
     }
     
     h4 {
-        font-size: 4rem;
+        font-size: 2rem;
         text-align: center;
     }
     
     h5 {
-        font-size: 3rem;
+        font-size: 1rem;
         text-align: center;
     }
     
