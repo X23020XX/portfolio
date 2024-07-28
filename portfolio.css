@@ -230,6 +230,7 @@ h5 {
     }
     
     a {
+        font-size: 2rem;
         text-decoration: none;
         color: gray;
     }
@@ -286,7 +287,7 @@ h5 {
     
     .space {
         width: 100%;
-        height: 200px;
+        height: 100px;
     }
     
     #WORKS {
@@ -298,7 +299,7 @@ h5 {
     #WORKS div {
         width: 100%;
         height: auto;
-        margin-bottom: 300px;
+        margin-bottom: 150px;
         text-align: center;
     }
     
@@ -326,7 +327,7 @@ h5 {
     
     .icon {
         display: grid;
-        grid-template-columns: repeat(auto-fill, 450px);
+        grid-template-columns: repeat(auto-fill, 200px);
         width: 100%;
         margin-top: 200px;
         margin-bottom: 500px;
@@ -334,8 +335,8 @@ h5 {
     }
 
     .icon-sub {
-        width: 200px;
-        height: 200px;
+        width: 300px;
+        height: 300px;
         text-align: center;
         align-items: center;
         object-position: center;
@@ -344,10 +345,10 @@ h5 {
     }
     
     .icon img {
-        width: 100px;
-        height: 100px;
+        width: 200px;
+        height: 200px;
         border-radius: 80px;
-        box-shadow: 12px 12px 2px 1px gray;
+        box-shadow: 3px 3px 2px 1px gray;
     }
     
     #ABOUT {
@@ -355,7 +356,7 @@ h5 {
     }
     
     #ABOUT h3 {
-        padding-left: 300px;
+        padding-left: 100px;
     }
     #OTHER {
         position: relative;
@@ -373,12 +374,12 @@ h5 {
     }
     
     .sns img {
-        width: 300px;
-        height: 300px;
+        width: 200px;
+        height: 200px;
     }
     
     .fspace {
-        height: 200px;
+        height: 100px;
     }
     
 }
