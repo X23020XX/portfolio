@@ -332,9 +332,19 @@ h5 {
         margin-bottom: 500px;
         text-align: center;
     }
+
+    .icon-sub {
+        width: 200px;
+        height: 400px;
+        text-align: center;
+        align-items: center;
+        object-position: center;
+        position: relative;
+        left: 30px;
+    }
     
     .icon img {
-        width: 300px;
+        width: 100px;
         height: 300px;
         border-radius: 80px;
         box-shadow: 12px 12px 2px 1px gray;
